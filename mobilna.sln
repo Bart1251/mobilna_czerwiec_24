@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobilna.Android", "mobilna\mobilna.Android\mobilna.Android.csproj", "{01B9CC5A-59D4-4352-B653-93F1E4CC0FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobilna", "mobilna\mobilna\mobilna.csproj", "{0950F693-8B25-4B27-AF7F-E45F1964471D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B9CC5A-59D4-4352-B653-93F1E4CC0FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B9CC5A-59D4-4352-B653-93F1E4CC0FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B9CC5A-59D4-4352-B653-93F1E4CC0FAE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{01B9CC5A-59D4-4352-B653-93F1E4CC0FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B9CC5A-59D4-4352-B653-93F1E4CC0FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B9CC5A-59D4-4352-B653-93F1E4CC0FAE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0950F693-8B25-4B27-AF7F-E45F1964471D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0950F693-8B25-4B27-AF7F-E45F1964471D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0950F693-8B25-4B27-AF7F-E45F1964471D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0950F693-8B25-4B27-AF7F-E45F1964471D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0950F693-8B25-4B27-AF7F-E45F1964471D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0950F693-8B25-4B27-AF7F-E45F1964471D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4301B459-7A8B-424A-9369-10A83C959D22}
+	EndGlobalSection
+EndGlobal
